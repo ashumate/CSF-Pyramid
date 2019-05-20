@@ -1,4 +1,6 @@
 # CSF-Pyramid
+
+![Alt text](PLAIN/PPT_LIGHT-01.jpg?raw=true "Title")
 This is a visualization that I developed to help when discussing the functions of the NIST CSF
 
 Each function builds a foundation for the functions above, for example you cannot effectively protect things that you don't know you have, or detect anamolys on your network, you can't respond to a security incident if you can't detect it etc.
